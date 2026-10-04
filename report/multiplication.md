@@ -1,4 +1,4 @@
-# โปรแกรมคูณเลขสองจำนวน — Project 1 วิชา Computer Architecture CPE 261304
+# โปรแกรมคูณเลขสองจำนวน 
 
 โปรแกรม [multiplication.as](../assembly/multiplication.as) อ่านตัวตั้งจาก `mcand = 32766` และตัวคูณจาก `mplier = 10383` เมื่อ `halt` จะได้ผลคูณ `340209378` ใน register 1
 
