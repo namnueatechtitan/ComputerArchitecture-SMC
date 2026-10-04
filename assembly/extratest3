@@ -1,0 +1,11 @@
+        lw      0       1       ptr
+        lw      1       2       -3
+        lw      1       3       -2
+        add     2       3       4
+        sw      1       4       -1
+        halt
+ptr     .fill   end
+left    .fill   7
+mid     .fill   8
+out     .fill   0
+end     .fill   0
