@@ -12,6 +12,7 @@ ComputerArchitecture-SMC/
 │   ├── Simulator.java
 │   └── .gitkeep
 ├── assembly/
+│   ├── multiplication.as
 │   └── .gitkeep
 ├── tests/
 │   ├── AssemblerParserTest.java
